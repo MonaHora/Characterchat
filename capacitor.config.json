@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.characterchat",
+  "appName": "CharacterChat",
+  "webDir": "www",
+  "plugins": { "CapacitorHttp": { "enabled": true } }
+}
